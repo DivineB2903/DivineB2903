@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DivineB2903( V Divya Lakshmi)
+- 👀 I’m interested in Data Science, Machine Learning, and AI-driven solutions.
+- 🌱 I’m currently learning advanced algorithms in Machine Learning, Big Data Analytics, and Deep Learning.
+- 💞️ I’m looking to collaborate on open-source data science projects, innovative AI models, and data-driven applications.
+- 📫 How to reach me: https://www.linkedin.com/in/v-divya-lakshmi-a059a6255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I love analyzing data patterns in my free time and often find myself diving into random datasets just for fun!
