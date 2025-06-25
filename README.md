@@ -1,8 +1,8 @@
 - 👋 Hi, I’m V Divya Lakshmi
-- 💼 I'm currently **open to full-time, part-time, or internship opportunities** in **Web Development**, **Data Science**, or **Machine Learning**
+- 💼 I'm currently **open to full-time, or internship opportunities** in **Web Development**, **Data Science**, or **Machine Learning**
 - I’m currently learning algorithms in Machine Learning, Big Data Analytics, and Deep Learning .
 - I’m looking to collaborate on open-source data science projects, web developement and data-driven applications.
-- 🔗 My LinkedIn Profile:(https://www.linkedin.com/in/v-divya-lakshmi-a059a6255/)
+- 🔗 My LinkedIn Profile:(https://www.linkedin.com/in/v-divya-lakshmi)
 - My Email id : divyalakshmi.v2903@gmail.com
 - Pronouns: She/her
 - Fun fact: I love analyzing data patterns in my free time and often find myself diving into random datasets just for fun!
